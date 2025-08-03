@@ -1,4 +1,4 @@
-6# AWS Elemental MediaLive and MediaPackage Multi-Camera Streaming Guide
+# AWS Elemental MediaLive and MediaPackage Multi-Camera Streaming Guide
 
 This guide updates the setup for streaming a church service using AWS Elemental MediaLive, MediaPackage, CloudFront, and S3, with a multi-camera setup (three cameras: pulpit, choir, congregation) managed via OBS Studio and RTMP outputs to YouTube and Facebook Live.
 
